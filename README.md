@@ -1,4 +1,4 @@
-// https://rahuldkjain.github.io/gh-profile-readme-generator/  Readme generator website url 
+<!-- "https://rahuldkjain.github.io/gh-profile-readme-generator/ " Readme generator website url  -->
 
 ![logo](https://github.com/mubashir-bashir/mubashir-bashir/blob/main/github.jpeg)
 <h1 align="center">Hi 👋, I'm Mubashir Bashir</h1>
