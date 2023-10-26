@@ -1,4 +1,4 @@
-!logo(https://github.com/mubashir-bashir/mubashir-bashir/blob/main/github.jpeg)
+![logo](https://github.com/mubashir-bashir/mubashir-bashir/blob/main/github.jpeg)
 <h1 align="center">Hi 👋, I'm Mubashir Bashir</h1>
 <h3 align="center">A software engineering graduate with a deep passion for web development</h3>
 
