@@ -3,7 +3,7 @@
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ykofugykmy0yrtmypr6ndlanmixw3swcwalkx1l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
 
-- 🌱 I’m currently learning ** Mern Stack **
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT , TAILWIND ,BOOTSTRAP, WORDPRESS, SHOPIFY**
 
